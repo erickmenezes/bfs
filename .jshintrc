@@ -1,0 +1,28 @@
+{
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "freeze": true,
+  "indent": 2,
+  "newcap": true,
+  "quotmark": "single",
+  "maxdepth": 3,
+  "maxlen": 160,
+  "eqnull": true,
+  "funcscope": true,
+  "strict": true,
+  "node": true,
+  "mocha": true,
+  "jquery": true,
+  "browser": true,
+  "esversion": 6,
+  "globals": {
+    "sendAjaxPost": true,
+    "google": true,
+    "Iugu": true,
+    "prepareAddressInputs": true,
+    "scrollTrigger": true,
+    "retrieveUrlParams": true,
+    "MENU_SCROLL_OFFSET": true
+  }
+}
