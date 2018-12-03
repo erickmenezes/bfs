@@ -1,0 +1,11 @@
+{
+  "name": "bfs",
+  "version": "1.0.0",
+  "description": "Algoritmo de Busca em Largura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erick Menezes",
+  "license": "ISC"
+}
